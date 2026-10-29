@@ -1,0 +1,10 @@
+B: Flow of electric charge per unit time (Q/t)
+C: 48V (V = I × R ⇒ 12Ω × 4A = 48V)
+B: 0.05S (Conductance = 1 / Resistance ⇒ 1 / 20Ω = 0.05S)
+D: 25V (in a loop the sum of voltage=0, 30+10-15+(-(25))=0)
+D: 10A (current in=current out, I_1+I_2=I_3, 6A+4A=10A)
+D: 30Ω (in series, 5Ω +10Ω +15Ω=30Ω)
+B: 2Ω (in parallel, Req=R_1||R_2, 6Ω||3Ω=2Ω)
+C: 2A (I=V/R, 10V/5Ω=2A)
+D: 40W (P=VI, 20Vx2A=40W)
+B: To simplify complex three-node resistor networks

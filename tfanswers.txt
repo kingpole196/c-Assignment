@@ -1,0 +1,10 @@
+T: I=V/R
+T: KCL states that sum of the current go in a junction is equal to the current leave the junction
+F: In a series circuit, the total resistance is the sum of all individual resistances which is greater than smallest resistance in the circuits
+F: A capacitor stores electrical energy in the form of an electric field between its plates
+T: KVL states that sum of the voltages around a closed loop is equal to zero
+T: Conductance=1/Resistance
+T: P=VI, I=V/R, P=VxV/R
+F: In a Delta (Δ) configuration, resistors are connected in a triangular shape, not in parallel
+F: The equivalent resistance of two resistors in parallel is always less than the resistance of the smallest resistor,1/Req=1/R1+1/R2
+T: A current source is designed to maintain a constant current, regardless of the voltage across it

@@ -1,0 +1,10 @@
+Q1. Which of the following best defines current?: A) Work done per unit charge B) Flow of electric charge per unit time C) Energy stored in a circuit D) Rate of change of voltage
+Q2. A resistor has R=12Ω. If the current is 4A, what is the voltage across it?: A) 3V B) 16V C) 48V D) 60V
+Q3. If the resistance is 20Ω, what is the conductance?: A) 0.005S B) 0.05S C) 0.5S D) 2S
+Q4. In a loop, voltages are: +30V, +10V, −15V, and −Vx. What is Vx?: A) 5V B) 10V C) 20V D) 25V
+Q5. At a node, I_1 = 6A and I_2 = 4A enter. If only I_3 leaves, what is I_3?: A) 2A B) 4A C) 6A D) 10A
+Q6. What is the equivalent resistance of 5Ω, 10Ω, and 15Ω in series?: A) 10Ω B) 15Ω C) 20Ω D) 30Ω
+Q7. What is the equivalent resistance of 6Ω and 3Ω in parallel?: A) 1Ω B) 2Ω C) 4Ω D) 9Ω
+Q8. Convert a 10V source in series with 5Ω into a current source. The equivalent current is?: A) 0.2A B) 1A C) 2A D) 5A
+Q9. A load operates at 20V and 2A. What is the power absorbed?: A) 10W B) 20W C) 30W D) 40W
+Q10. Why is Δ–Y transformation useful?: A) To increase resistance values B) To simplify complex three-node resistor networks C) To change AC to DC D) To measure current more easily
